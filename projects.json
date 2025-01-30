@@ -8,7 +8,7 @@
   },
   {
     "title": "ChatWave",
-    "description": "A real-time chat platform built using React, Node.js, and Socket.IO.",
+    "description": "A real-time chat platform built using React, Node.js with Express.js Framework, and Socket.IO.",
     "website": "https://richu-chatwave.vercel.app/",
     "github": "https://github.com/richusony/ChatWave",
     "demo": "https://tinyurl.com/y867m62t"
